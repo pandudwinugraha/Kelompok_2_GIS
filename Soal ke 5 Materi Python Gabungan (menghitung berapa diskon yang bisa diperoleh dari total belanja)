@@ -1,1 +1,5 @@
+print("##  Program Python Dsikon Potongan Harga  ##")
+print("============================================")
+print("")
 
+total_belanja = int(input("Total Belanja: Rp. "))
